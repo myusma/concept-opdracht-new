@@ -217,8 +217,8 @@ h1, h2, h3 {
     justify-content: center;
     flex-wrap: wrap;
     gap: 60px;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 60px;
+    padding-top: 60px;
 
 }
 
@@ -230,10 +230,12 @@ h1, h2, h3 {
     flex-grow: 0;
     flex-shrink: 1;
     border-style: solid;
+    border-width: thin;
     border-color: #4845E4;
-    margin: 25px;
+    margin: 5px;
     padding: 20px;
     justify-content: space-between;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2)
 
 }
 
